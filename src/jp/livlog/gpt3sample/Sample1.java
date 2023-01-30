@@ -17,7 +17,7 @@ public class Sample1 {
 
         System.out.println("\nCreating completion...");
 
-        final var message = "ラーメンは健康にいい食べ物ですよね。";
+        final var message = "やっぱり、冬の鍋はおいしいですね。";
         final var prompt = "The following is a conversation with an AI assistant. The assistant is helpful, creative, clever.\nHuman: " + message
                 + "\nAI: ";
 
